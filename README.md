@@ -1,4 +1,4 @@
 # MYrepo
 this is my first repo
 <br>
-Author : Sathish Poojari
+Author : Sathish Poojari (creator)
